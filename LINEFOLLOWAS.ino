@@ -1,7 +1,11 @@
-/* Line Following Robot Revision 1.12
- *  by Nicholas Sparks
- *  This robot uses a reflective sensor to track the edge of a line.
- */
+/*
+Created by Apurv Shah.
+11 june 2017.
+*/
+
+
+
+// This is a simple code that helps a robot to foillow a black line using a 3 sensor reflectance sensor.
  
 #define enableL 6     // ENA speed pin for left motor
 #define LPin1 7       // IN1 on Motor controller board
